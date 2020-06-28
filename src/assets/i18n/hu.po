@@ -76,60 +76,66 @@ msgid " builtin users (default setting is <i>hidden</i>)."
 msgstr " beépített felhasználók (alapértelmezet beállításként <i>rejtett</i>)."
 
 msgid " but datastore "
-msgstr ""
+msgstr " de adattároló "
 
 msgid " disks"
-msgstr ""
+msgstr " lemezek"
 
 msgid " disks, new vdev has "
-msgstr ""
+msgstr " lemezek, az új vdev-nek "
 
 msgid " has been unlocked."
-msgstr ""
+msgstr " feloldásra került."
 
 msgid " is "
-msgstr ""
+msgstr " a "
 
 msgid " is a required field."
-msgstr ""
+msgstr " szükséges mező."
 
 msgid " is required."
-msgstr ""
+msgstr " szükséges."
 
 msgid ""
 " is still running,  the Guest OS did not respond as expected. It is "
 "possible to use <i>Power Off</i> or the <i>Force Stop  After Timeout</i> "
 "option to stop the VM."
 msgstr ""
+" jelenleg is fut, a Vengég OS nem megfelelően választolt. Lehetősége "
+" van arra, hogy használja a <i> Kikapcsolás</i> vagy a "
+" <i>Kényszerített kikapcsolás az időtúllépés után</i> opciókat a VM "
+" leállítására."
 
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
 "system performance."
 msgstr ""
+" ez a minimálisan ajánlott rekord méret. Választhat alacsonyabb méretet is "
+" azonban az csökkenteni fogja a rendszer teljesítményét. "
 
 msgid " official plugins"
-msgstr ""
+msgstr " hivatalos pluginok"
 
 msgid " seconds"
-msgstr ""
+msgstr " másodpercek"
 
 msgid " seconds."
-msgstr ""
+msgstr " másodpercek."
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " a szolgáltatás engedélyezve van."
 
 msgid " should be at least "
-msgstr ""
+msgstr " legalább legyen "
 
 msgid " should be no more than "
-msgstr ""
+msgstr " nem lehet több, mint "
 
 msgid " successfully saved."
-msgstr ""
+msgstr " sikeresen elmentve."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " sikeresen feloldva"
 
 msgid " system is powered on and connected to the network."
 msgstr ""
@@ -834,19 +840,19 @@ msgid "Adapter Type:"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "Hozzáad"
 
 msgid "Add ACL Item"
-msgstr ""
+msgstr "ACL tétel hozzáadása"
 
 msgid "Add ACME Certificate"
-msgstr ""
+msgstr "ACME tanúsítvány hozzáadása"
 
 msgid "Add API Key"
-msgstr ""
+msgstr "API kulcs hozzáadása"
 
 msgid "Add Additional Path"
-msgstr ""
+msgstr "Kiegészítő útvonal hozzáadása"
 
 msgid "Add Alert Service"
 msgstr ""
@@ -14276,4 +14282,4 @@ msgid "while pool is encrypted"
 msgstr ""
 
 msgid "yes"
-msgstr ""
+msgstr "igen"
