@@ -5,69 +5,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr " Beépített Csoportok"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr " Beéptett Felhasználók"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " További részletekért ellenőrizze az Értesítések oldalt."
 
 msgid " Download Updates"
-msgstr ""
+msgstr " Frissítések letöltése"
 
 msgid " First data vdev is a "
-msgstr ""
+msgstr " Az első adatok vdev  "
 
 msgid " First vdev has "
-msgstr ""
+msgstr " Az első vdev "
 
 msgid " First vdev is a "
-msgstr ""
+msgstr " Az első vdev a(z) "
 
 msgid " KiB."
-msgstr ""
+msgstr " KiB."
 
 msgid " Plugin"
-msgstr ""
+msgstr " Kiegészítő"
 
 msgid " Service"
-msgstr ""
+msgstr " Szolgáltatás"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
 "port number of the UPS <i>Master</i> system. The default port is "
 "<i>3493</i>."
 msgstr ""
+" Ha az <b>UPS mód</b> beállítása <i>slave</i>. Írja be a hálózati port "
+" a <i>Master</i> UPS rendszernek. Az alapértelmezett port a <i>3493</i>."
 
 msgid ""
 " a passphrase invalidates an existing pool  recovery key file. To save a "
 "backup of the existing encryption key  without making any changes, click "
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
 msgstr ""
+" egy jelmondat érvényteleníti a meglévő készlet-helyreállítási kulcsfájlt."
+" A meglévő titkosítási kulcs biztonsági másolatának mentéséhez bármilyen "
+" módosítás nélkül, kattintson a <b>TITKOSZTÁSI KULCS letöltése</b> gombra."
 
 msgid ""
 " addresses. When this has been chosen, additional addresses cannot be "
 "selected."
 msgstr ""
+" címek. Ha ezt kiválasztotta, további címek nem választhatók ki."
 
 msgid " and "
-msgstr ""
+msgstr " és "
 
 msgid " and all snapshots of it?"
-msgstr ""
+msgstr " és az összes pillanatképet is?"
 
 msgid " and will be disrupted if the pool is detached:"
-msgstr ""
+msgstr " és megszakad, ha a poolt leválasztják:"
 
 msgid " and will be disrupted if the pool is locked:"
-msgstr ""
+msgstr " és megszakad, ha a poolt zárolják:"
 
 msgid " built-in groups (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " beépített csoportok (alapértelmezet beállításként <i>rejtett</i>)."
 
 msgid " builtin users (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " beépített felhasználók (alapértelmezet beállításként <i>rejtett</i>)."
 
 msgid " but datastore "
 msgstr ""
