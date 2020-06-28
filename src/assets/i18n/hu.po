@@ -29,7 +29,7 @@ msgid " KiB."
 msgstr " KiB."
 
 msgid " Plugin"
-msgstr " Kiegészítő"
+msgstr " Bővítmény"
 
 msgid " Service"
 msgstr " Szolgáltatás"
@@ -114,7 +114,7 @@ msgstr ""
 " azonban az csökkenteni fogja a rendszer teljesítményét. "
 
 msgid " official plugins"
-msgstr " hivatalos pluginok"
+msgstr " hivatalos bővítmények"
 
 msgid " seconds"
 msgstr " másodpercek"
@@ -126,10 +126,10 @@ msgid " service has been enabled."
 msgstr " a szolgáltatás engedélyezve van."
 
 msgid " should be at least "
-msgstr " legalább legyen "
+msgstr " nagyobbnak kell lennie mint "
 
 msgid " should be no more than "
-msgstr " nem lehet több, mint "
+msgstr " kisebbnek kell lennie mint "
 
 msgid " successfully saved."
 msgstr " sikeresen elmentve."
@@ -138,19 +138,19 @@ msgid " successfully unlocked"
 msgstr " sikeresen feloldva"
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " a rendszer be van kapcsolva, és csatlakoztatva van a hálózathoz."
 
 msgid " to include all "
-msgstr ""
+msgstr " beleértve az összeset"
 
 msgid " update successful"
-msgstr ""
+msgstr " sikeres frissítés"
 
 msgid " updated."
-msgstr ""
+msgstr " frissítve."
 
 msgid "% of all cores"
-msgstr ""
+msgstr "% az összes magból"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
